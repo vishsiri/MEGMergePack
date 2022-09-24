@@ -1,0 +1,3 @@
+pluginPrefix: "§8[§6MEGMerge§8] §r"
+ModelEngineAssets: './plugins/ModelEngine/resource pack/assets'
+ItemAdderAssets: './plugins/ItemsAdder/data/resource_pack/assets'

@@ -1,0 +1,9 @@
+name: MEGMergePack
+version: '${project.version}'
+main: vishsiri.megmergepack.MEGMergePack
+api-version: 1.19
+authors: [ VishSiri ]
+description: ModelEngine and ItemAdder Merge Solution
+website: dev.vishsiri.info
+commands:
+  megmerge:
